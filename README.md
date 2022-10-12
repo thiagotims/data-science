@@ -4,7 +4,7 @@ This repository is dedicated to data science analysis and projects that are part
 
 ### Files in this repository:
 
-#### 📁 analiseDados_bootcampGeracaoTech_Dio.ipynb
+📁 _analiseDados_bootcampGeracaoTech_Dio.ipynb_
 
 The file consists of the reproduction of two data analysis carried out in the Labs "Data analysis with Python and Pandas" of the course Geração Tech Unimed-BH - Data Science, promoted by DIO and Unimed. I made minor changes, additions and polishes in the in the studies performed.
 
