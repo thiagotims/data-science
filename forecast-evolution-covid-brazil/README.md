@@ -9,5 +9,10 @@ This project consists of the implementation of the content learned in the classe
 
 Este projeto consiste na implementação do conteúdo aprendido nas aulas do desafio de projeto “Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil” do curso Geração Tech Unimed-BH – Data Science, promovido pelo DIO e Unimed e ministrado pelo professor Neylson Crepalde. Fiz pequenas alterações, adições e polimentos nos códigos implementados.
 
+Author
+Thiago Tim / Professor Neylson Crepalde (instructor)
+
+License
+MIT
 
 
