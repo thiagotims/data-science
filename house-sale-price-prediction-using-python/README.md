@@ -6,4 +6,4 @@ It uses python codes to do data-cleaning, analyse data and create models for pri
 - Numerical representation of data using correlation, linear and polynomial regression, R-Squared values, etc
 - Graphical representation of data using boxplot, and seaborn's regplot.
 - Model refinement suing ridge regression object.
-Polynomial transform of training and test data, etc.
+- Polynomial transform of training and test data, etc.
