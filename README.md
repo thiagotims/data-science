@@ -6,7 +6,7 @@ This repository is dedicated to data science analysis and projects that are part
 
 📁 analiseDados_bootcampGeracaoTech_Dio.ipynb
 
-The file consists of the reproduction of two data analysis carried out in the Labs "Data analysis with Python and Pandas" of the course Geração Tech Unimed-BH - Data Science, promoted by DIO and Unimed. I made minor changes, additions and polishes in the in the studies performed.
+The file consists of the reproduction of two data analysis carried out in the Labs "Data analysis with Python and Pandas" of the course Geração Tech Unimed-BH - Data Science, promoted by DIO and Unimed. I made minor changes, additions and polishes in the the studies performed.
 
 ### Contents:
 - Part 1. Working with Pandas and CSV: Gapminder database.
