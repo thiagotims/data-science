@@ -20,3 +20,6 @@ This project consists of the implementation of the content learned in the classe
 
 This project analyzes and predicts housing sale price based on features such as square footage, number of bedrooms, views, locations, etc. It uses the dataset of house sale prices for King County, USA, including home sales between May 2014 and May 2015.
 
+📁 cancel-service-eda
+
+This project was developed as an exploratory data analysis (EDA) to understand the reasons for service cancellation in a company with more than 800 thousand customers. The company seeks insights to reduce customer churn and improve customer retention.
