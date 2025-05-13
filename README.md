@@ -1,4 +1,4 @@
-# Data Science
+# Data Science & Data Analysis
 
 This repository is dedicated to data science analysis and projects that are part of my know-how.
 
